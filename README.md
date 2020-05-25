@@ -93,6 +93,8 @@ Lane Detection
 [(SCNN)Spatial As Deep: Spatial CNN for Traffic Scene Understanding](https://arxiv.org/abs/1712.06080)   AAAI 2018   [CSDN Translator](https://blog.csdn.net/u011974639/article/details/79580798?from=timeline#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1)
 
  [Lane Detection Based on Inverse Perspective Transformation and Kalman Filter](http://itiis.org/digital-library/manuscript/file/1921/TIIS+Vol+12,+No+2-6.pdf)
+ 
+ [Geometric Constrained Joint Lane Segmentation and Lane Boundary Detection](https://eccv2018.org/openaccess/content_ECCV_2018/html/Jie_Zhang_Geometric_Constrained_Joint_ECCV_2018_paper.html)
 
 # 2017
 
